@@ -17,3 +17,7 @@ from calculator import operations
 result = operations.add(5, 3)
 print(result)  # 8
 ```
+
+## ライセンス
+
+このプロジェクトはMITライセンスの下で公開されています。詳細については、[LICENSE](LICENSE)ファイルをご覧ください。
